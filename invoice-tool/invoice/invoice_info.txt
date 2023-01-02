@@ -1,0 +1,1 @@
+After a get request, the application downloads the file from the s3 bucket and then it is delivered to the requester from the local path.

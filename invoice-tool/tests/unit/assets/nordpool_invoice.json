@@ -1,0 +1,106 @@
+[
+    {
+      "Paid": false,
+      "Markets": [
+        "NPSID"
+      ],
+      "InvoiceNumber": "3740489",
+      "InvoiceDate": "2022-07-01T12:18:05Z",
+      "DueDate": "2022-07-05T00:00:00Z",
+      "CreditBankAccount": "DE36280400460409701003",
+      "DebitBankAccount": "NO8660190447513",
+      "InvoiceAccount": "N01240-IA3",
+      "Currency": "EUR",
+      "TotalAmount": -1252.92,
+      "HasPdfDownload": true,
+      "HasXmlDownload": false,
+      "SettlementTransactionIds": [
+        973237
+      ],
+      "FromDeliveryDate": "2022-05-30T00:00:00Z",
+      "ToDeliveryDate": "2022-06-30T00:00:00Z",
+      "Country": "Germany",
+      "ReferenceNumber": "N-1987227",
+      "LegalEntityCode": "N01240",
+      "LegalEntityName": "EWE TRADING GmbH",
+      "OrganizationNumber": "HRB31829"
+    },
+    {
+      "Paid": false,
+      "Markets": [
+        "NPSID"
+      ],
+      "InvoiceNumber": "3740410",
+      "InvoiceDate": "2022-07-01T12:18:03Z",
+      "DueDate": "2022-07-04T00:00:00Z",
+      "CreditBankAccount": "NO8660190447513",
+      "DebitBankAccount": "DE36280400460409701003",
+      "InvoiceAccount": "N01240-IA2",
+      "Currency": "EUR",
+      "TotalAmount": 190617.3,
+      "HasPdfDownload": true,
+      "HasXmlDownload": true,
+      "SettlementTransactionIds": [
+        973158
+      ],
+      "FromDeliveryDate": "2022-05-28T00:00:00Z",
+      "ToDeliveryDate": "2022-06-30T00:00:00Z",
+      "Country": "Germany",
+      "ReferenceNumber": "N-1987128",
+      "LegalEntityCode": "N01240",
+      "LegalEntityName": "EWE TRADING GmbH",
+      "OrganizationNumber": "HRB31829"
+    },
+    {
+      "Paid": false,
+      "Markets": [
+        "NPSID"
+      ],
+      "InvoiceNumber": "3740415",
+      "InvoiceDate": "2022-07-01T12:18:03Z",
+      "DueDate": "2022-07-04T00:00:00Z",
+      "CreditBankAccount": "NO8660190447513",
+      "DebitBankAccount": "DE36280400460409701003",
+      "InvoiceAccount": "N01240-IA1",
+      "Currency": "EUR",
+      "TotalAmount": 5238.85,
+      "HasPdfDownload": true,
+      "HasXmlDownload": true,
+      "SettlementTransactionIds": [
+        973163
+      ],
+      "FromDeliveryDate": "2022-06-10T00:00:00Z",
+      "ToDeliveryDate": "2022-06-30T00:00:00Z",
+      "Country": "Germany",
+      "ReferenceNumber": "N-1987174",
+      "LegalEntityCode": "N01240",
+      "LegalEntityName": "EWE TRADING GmbH",
+      "OrganizationNumber": "HRB31829"
+    },
+    {
+      "Paid": true,
+      "Markets": [
+        "NPSID"
+      ],
+      "InvoiceNumber": "3739817",
+      "InvoiceDate": "2022-06-30T12:17:39Z",
+      "DueDate": "2022-07-01T00:00:00Z",
+      "CreditBankAccount": "NO8660190447513",
+      "DebitBankAccount": "DE36280400460409701003",
+      "InvoiceAccount": "N01240-IA2",
+      "Currency": "EUR",
+      "TotalAmount": 714906.69,
+      "HasPdfDownload": true,
+      "HasXmlDownload": true,
+      "SettlementTransactionIds": [
+        972395
+      ],
+      "FromDeliveryDate": "2022-06-05T00:00:00Z",
+      "ToDeliveryDate": "2022-06-29T00:00:00Z",
+      "Country": "Germany",
+      "ReferenceNumber": "N-1985606",
+      "LegalEntityCode": "N01240",
+      "LegalEntityName": "EWE TRADING GmbH",
+      "OrganizationNumber": "HRB31829"
+    }
+  ]

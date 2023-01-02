@@ -1,0 +1,12 @@
+UrlPrefix: /test
+NORDPOOL: # ToDo: remove real urls from test/config.yml
+  AUTH_URL: "https://sso.nordpoolgroup.com/connect/authorize"  #ToDo: this AUTH URL is not being used. We could remove it.
+  TOKEN_URL: "https://sts.test.nordpoolgroup.com/connect/token"
+  USER: "test_user"
+  PASSWORD: "test_password"
+  INVOICE_DOWNLOAD_ENDPOINT: "https://apiclearing.test.nordpoolgroup.com/api/invoices"
+  CLIENT_ID: "client_cass_member_api"
+  CLIENT_SECRET: "client_cass_member_api"
+GOLIVEDATE: "2022-10"
+S3REGION: "ap-south-1"
+S3BUCKET: "testpava"
